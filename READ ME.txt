@@ -1,0 +1,2 @@
+These are pretty simple but damaging batch files.
+DO NOT RUN THESE ON YOUR HOST PC. Only run these in sandboxed envs 
